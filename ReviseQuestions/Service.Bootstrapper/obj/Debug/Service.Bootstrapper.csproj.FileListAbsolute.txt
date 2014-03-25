@@ -1,0 +1,8 @@
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\bin\Debug\Service.Bootstrapper.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\bin\Debug\Service.Bootstrapper.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\bin\Debug\StructureMap.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\bin\Debug\StructureMap.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\bin\Debug\StructureMap.xml
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\obj\Debug\Service.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\obj\Debug\Service.Bootstrapper.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Bootstrapper\obj\Debug\Service.Bootstrapper.pdb

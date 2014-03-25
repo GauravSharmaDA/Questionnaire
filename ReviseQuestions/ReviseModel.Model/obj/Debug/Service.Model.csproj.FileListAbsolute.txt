@@ -1,0 +1,4 @@
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\bin\Debug\Service.Model.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\bin\Debug\Service.Model.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\obj\Debug\Service.Model.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\obj\Debug\Service.Model.pdb

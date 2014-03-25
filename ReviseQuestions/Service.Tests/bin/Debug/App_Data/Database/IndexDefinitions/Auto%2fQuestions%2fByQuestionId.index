@@ -1,0 +1,25 @@
+{
+  "Name": "Auto/Questions/ByQuestionId",
+  "LockMode": "Unlock",
+  "Map": "from doc in docs.Questions\r\nselect new { QuestionId = doc.QuestionId }",
+  "Maps": [
+    "from doc in docs.Questions\r\nselect new { QuestionId = doc.QuestionId }"
+  ],
+  "Reduce": null,
+  "TransformResults": null,
+  "IsMapReduce": false,
+  "IsCompiled": false,
+  "Stores": {},
+  "Indexes": {},
+  "SortOptions": {},
+  "Analyzers": {},
+  "Fields": [],
+  "Suggestions": {},
+  "TermVectors": {},
+  "SpatialIndexes": {},
+  "InternalFieldsMapping": {
+    "QuestionId": "QuestionId"
+  },
+  "Type": "Auto",
+  "DisableInMemoryIndexing": false
+}

@@ -1,0 +1,10 @@
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions.ViewModel\ReviseQuestions.ViewModel\bin\Debug\ReviseQuestions.ViewModel.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions.ViewModel\ReviseQuestions.ViewModel\bin\Debug\ReviseQuestions.ViewModel.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions.ViewModel\ReviseQuestions.ViewModel\obj\Debug\ReviseQuestions.ViewModel.csprojResolveAssemblyReference.cache
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions.ViewModel\ReviseQuestions.ViewModel\obj\Debug\ReviseQuestions.ViewModel.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions.ViewModel\ReviseQuestions.ViewModel\obj\Debug\ReviseQuestions.ViewModel.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseQuestions.ViewModel\bin\Debug\ReviseQuestions.ViewModel.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseQuestions.ViewModel\bin\Debug\ReviseQuestions.ViewModel.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseQuestions.ViewModel\obj\Debug\ReviseQuestions.ViewModel.csprojResolveAssemblyReference.cache
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseQuestions.ViewModel\obj\Debug\ReviseQuestions.ViewModel.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseQuestions.ViewModel\obj\Debug\ReviseQuestions.ViewModel.pdb

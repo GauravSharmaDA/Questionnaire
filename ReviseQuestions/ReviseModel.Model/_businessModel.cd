@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Service.Model.Answer">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.Chapter">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.Question">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAAAAAAAAAAACAAAAAAAAAAAAAAQAAAAAQACAE=</HashCode>
+      <FileName>Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.QuestionAttempt">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEQAQAAAAABAQ=</HashCode>
+      <FileName>QuestionAttempt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.QuestionCategory">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuestionCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.TestPack">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAIAAAAIAEAAAAAAAAAAE=</HashCode>
+      <FileName>TestPack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.TestPackAttempt">
+    <Position X="7.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgAIAAAAAAAACAAAQAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>TestPackAttempt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service.Model.User">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

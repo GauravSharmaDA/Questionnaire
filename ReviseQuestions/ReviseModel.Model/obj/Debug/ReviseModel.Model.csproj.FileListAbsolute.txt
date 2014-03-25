@@ -1,0 +1,5 @@
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\bin\Debug\ReviseModel.Model.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\bin\Debug\ReviseModel.Model.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\obj\Debug\ReviseModel.Model.csprojResolveAssemblyReference.cache
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\obj\Debug\ReviseModel.Model.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\ReviseModel.Model\obj\Debug\ReviseModel.Model.pdb

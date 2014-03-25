@@ -1,0 +1,8 @@
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\bin\Debug\Service.Data.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\bin\Debug\Service.Data.pdb
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\bin\Debug\Raven.Abstractions.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\bin\Debug\Raven.Client.Lightweight.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\bin\Debug\Raven.Abstractions.xml
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\bin\Debug\Raven.Client.Lightweight.xml
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\obj\Debug\Service.Data.dll
+C:\Projects\Documents\ReviseYourQuestion\ReviseQuestions\Service.Data\obj\Debug\Service.Data.pdb
